@@ -8,16 +8,12 @@ For any questions, please write to: [davide.delfino@studio.unibo.it](mailto:davi
 
 | **Category**         | **Tools**                                                                                                           |
 |----------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Languages**        | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90">   |
-|                      | <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="90">             |
-|                      | <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" width="90">   |
-|                      | <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" width="90">     |
-| **IDEs/Editors**     | <img src="https://img.shields.io/badge/Overleaf-008080?style=for-the-badge&logo=overleaf&logoColor=white" width="90">       |
-|                      | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="90"> |
-|                      | <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" width="90">         |
-| **Version Control**  | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="90">                     |
-|                      | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="90">            |
-| **OS**               | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="90">         |
+| **Languages**        | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="50">   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="50"> <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" width="50">   |
+|                      | <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" width="50">     |
+| **IDEs/Editors**     | <img src="https://img.shields.io/badge/Overleaf-008080?style=for-the-badge&logo=overleaf&logoColor=white" width="50">    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" width="50">    |
+|                      | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="50"> |
+| **Version Control**  | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="50">     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="50">               |
+| **OS**               | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="50">         |
 
 
 
