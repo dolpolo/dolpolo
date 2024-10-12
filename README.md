@@ -1,10 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
-<div align="center">
+<div id="header" align="center">  
    <h1>
-    HI THERE
+    Ciao everybody
   </h1>
+  </div>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 ---
@@ -33,9 +32,9 @@ I'm Davide, and I'm currently enrolled in LMEC^2, a second-year master's degree 
 ### 📜: Editos:
 <div>
   <img src="https://img.shields.io/badge/Overleaf-008080?style=for-the-badge&logo=overleaf&logoColor=white" title="Overleaf" alt="Overleaf"width="70" height="30"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="70" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" width="70" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"width="40" height="40"/>&nbsp;
 </div>
 
 ---
