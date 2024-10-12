@@ -12,7 +12,6 @@ For any questions, please write to: [davide.delfino@studio.unibo.it](mailto:davi
 |                      | <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="90">             |
 |                      | <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white" width="90">   |
 |                      | <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" width="90">     |
-|                      | <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" width="90">     |
 | **IDEs/Editors**     | <img src="https://img.shields.io/badge/Overleaf-008080?style=for-the-badge&logo=overleaf&logoColor=white" width="90">       |
 |                      | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" width="90"> |
 |                      | <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" width="90">         |
