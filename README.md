@@ -3,7 +3,7 @@
   </div>
 <div align="center">
    <h1>
-    hey there
+    HI THERE
   </h1>
 </div>
 
@@ -33,7 +33,7 @@ I'm Davide, and I'm currently enrolled in the second-year master's degree progra
 ### 📜: Editos:
 <div>
   <img src="https://img.shields.io/badge/Overleaf-008080?style=for-the-badge&logo=overleaf&logoColor=white" title="Overleaf" alt="Overleaf" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
