@@ -10,13 +10,13 @@
 ---
 
 ### 🧑‍🎓: About Me :
-I'm Davide, and I'm currently enrolled in the second-year master's degree program in LMEC^2 at Alma Mater Studiorum, Bologna.
+I'm Davide, and I'm currently enrolled in LMEC^2, a second-year master's degree program at Alma Mater Studiorum, Bologna.
 
-- 📚: I’m studying Economics and Econometrics.
+- 📚: In my master's course I'm studying Economics and Econometrics.
 
-- 💻: I'm learning how to manage high dimensional data and Econometrics approach to deal with macroeconometrics analysis.
+- 💻: I'm learning how to manage high-dimensional data and apply statistical approaches to macroeconometric analysis.
 
-- ⚡: My dream job is to work in the ECB as a monetary policy serearcher.
+- ⚡: My dream job is to work at the ECB as a monetary policy researcher.
 
 - 📫:How to reach me: [davide.delfino@studio.unibo.it](mailto:davide.delfino@studio.unibo.it)
 
@@ -27,15 +27,15 @@ I'm Davide, and I'm currently enrolled in the second-year master's degree progra
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" title="LaTeX" alt="LaTeX" width="70" height="30"/>&nbsp;
 </div>
 
 ### 📜: Editos:
 <div>
-  <img src="https://img.shields.io/badge/Overleaf-008080?style=for-the-badge&logo=overleaf&logoColor=white" title="Overleaf" alt="Overleaf" width="40" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Overleaf-008080?style=for-the-badge&logo=overleaf&logoColor=white" title="Overleaf" alt="Overleaf"width="70" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="Visual Studio Code" alt="Visual Studio Code" width="70" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" width="70" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="30"/>&nbsp;
 </div>
 
 ---
