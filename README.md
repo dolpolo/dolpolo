@@ -41,8 +41,7 @@ I'm Davide, and I'm currently enrolled in LMEC^2, a second-year master's degree 
 ---
 
 ### 🔥: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?dolpolo=DenverCoder1)](https://git.io/streak-stats)
----
+[![GitHub Streak](https://streak-stats.demolab.com/?dolpolo=DenverCoder1&theme=dark)](https://git.io/streak-stats)---
 
 ### ✍️: Current Projects
 
